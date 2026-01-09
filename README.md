@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Juliano-Canedo/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Juliano-Canedo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Configuring DNS within Azure VMs](https://github.com/juliano-canedo/configure-ad)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/juliano-canedo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/juliano-canedo/azure-network-protocols)
 
