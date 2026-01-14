@@ -6,7 +6,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Juliano-Canedo/ticket-lifecycle)
   - [osTicket: Configuring Roles & Permissions](https://github.com/Juliano-Canedo/Configuring-Roles-for-Permissions)
   - [osTicket: Configuring Departments](https://github.com/Juliano-Canedo/Configuring-Departments)
-  - [osTicket: Configuring Teams](https://github.com/Juliano-Canedo/Configuring-Teams)
+  - [osTicket: Configuring Groups/Teams](https://github.com/Juliano-Canedo/Configuring-Teams)
   - [osTicket: Configuring Agents (workers)](https://github.com/Juliano-Canedo/Configuring-Agents-workers)
   - [osTicket: Configuring Service Level Agreements](https://github.com/Juliano-Canedo/Configuring-SLA)
 
