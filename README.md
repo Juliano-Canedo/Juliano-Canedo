@@ -7,6 +7,7 @@
   - [osTicket: Configuring Roles for Permissions](https://github.com/Juliano-Canedo/Configuring-Roles-for-Permissions)
   - [osTicket: Configuring Departments](https://github.com/Juliano-Canedo/Configuring-Departments)
   - [osTicket: Configuring Teams](https://github.com/Juliano-Canedo/Configuring-Teams)
+  - [osTicket: Configuring Agents (workers)](https://github.com/Juliano-Canedo/Configuring-Agents-(workers))
 
 - <b>Microsoft Azure</b>
   - [Configuring DNS within Azure VMs](https://github.com/juliano-canedo/configure-ad)
