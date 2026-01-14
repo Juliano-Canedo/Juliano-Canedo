@@ -1,4 +1,4 @@
-<h1>Hello, I'm Juliano, an<a href="https://linkedin.com/in/juliano-canedo-15977a255/">IT Support Specialist!</h1>
+<h1>Hello, I'm Juliano, an <a href="https://linkedin.com/in/juliano-canedo-15977a255/">IT Support Specialist!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
